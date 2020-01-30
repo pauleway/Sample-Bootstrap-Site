@@ -1,0 +1,10 @@
+body{
+  font-family: cursive;
+}
+ul {
+  font-family: monospace;
+}
+
+.customClass {
+  border: solid 5px;
+}
